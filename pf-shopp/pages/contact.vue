@@ -1,0 +1,10 @@
+<template>
+	<div>
+    <comp-h1>
+      お問い合わせ
+    </comp-h1>
+		<comp-h2>
+      制作中
+    </comp-h2>
+	</div>
+</template>
